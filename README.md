@@ -34,7 +34,7 @@ I'm Nima, a CS grad from UofA
 
 
 
-For more details See relevant works [here](https://nimashariatz.github.io/profile_page/) 
+For more details pop by here [here](https://nimashariatz.github.io/profile_page/) 
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhhOHp3d21oY2o1ZmgwNzR3bmxqbG9rNWtjeWJzYWxkNmN3Y2FmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKAXViDOET1cwI8/giphy.gif" width="300px"/>
